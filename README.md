@@ -42,3 +42,6 @@
 
 <h3>Lets chat</h3>
 <a href="mailto:javieresmithblanco@gmail.com"><img src="https://img.shields.io/badge/-javieresmithblanco@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dhruvjainpenny@gmail.com" height=20></a>
+</p>
+
+_If it's not difficult, it's not fun_
