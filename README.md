@@ -1,6 +1,6 @@
 ### Yahallo 👋
 
-<p>I'm Javier, Backend developer from  Lima, Peru. </p>
+<p>I'm Javier, Backend developer from  <b>Lima, Peru</b></p>
 <h3>Things I code with</h3>
 <table>
   <thead align="center">
