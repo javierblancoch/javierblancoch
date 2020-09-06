@@ -3,8 +3,9 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=javierblancoch&layout=compact&hide_title=1&card_width=300" alt="Top language used in my repos" />
-  <br/>
 </div>
+
+---
 
 <h3>Little details</h3>
 <table>
