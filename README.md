@@ -1,6 +1,11 @@
 <h1 align="center">Yahallo 👋</h1>
 <h3 align="center">I'm Javier, developer from Lima, Peru</h3>
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=javierblancoch&layout=compact&hide_title=1&card_width=300" alt="Top language used in my repos" />
+  <br/>
+</div>
+
 <h3>Little details</h3>
 <table>
   <thead align="center">
