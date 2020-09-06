@@ -51,5 +51,5 @@
 </p>
 
 <div align="center">
-  If it's not difficult, it's not fun
+  If it's not difficult, it's not fun :rocket:
 </div>
