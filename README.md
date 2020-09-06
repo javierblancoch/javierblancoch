@@ -1,6 +1,5 @@
-### Yahallo 👋
-
-<p>I'm Javier, developer from  <b>Lima, Peru</b></p>
+<h1 align="center">Yahallo 👋</h1>
+<h3 align="center">I'm Javier, developer from Lima, Peru</h3>
 
 <h3>Little details</h3>
 <table>
