@@ -20,25 +20,25 @@
   </thead>
   <tbody>
     <tr>
-	    <td><a href="https://github.com/javierblancoch/SolarSystemVR"><b>SolarSystemVR</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/javierblancoch/SolarSystemVR?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/javierblancoch/SolarSystemVR?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/javierblancoch/SolarSystemVR?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/javierblancoch/SolarSystemVR?style=flat-square&labelColor=343b41"/></td>
+	<td><a href="https://github.com/javierblancoch/SolarSystemVR"><b>SolarSystemVR</b></a></td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/javierblancoch/SolarSystemVR?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/javierblancoch/SolarSystemVR?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Issues" src="https://img.shields.io/github/issues/javierblancoch/SolarSystemVR?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/javierblancoch/SolarSystemVR?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
-	    <td><a href="https://github.com/javierblancoch/RetroPyCar"><b>RetroPyCar</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/javierblancoch/RetroPyCar?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/javierblancoch/RetroPyCar?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/javierblancoch/RetroPyCar?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/javierblancoch/RetroPyCar?style=flat-square&labelColor=343b41"/></td>
+	<td><a href="https://github.com/javierblancoch/RetroPyCar"><b>RetroPyCar</b></a></td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/javierblancoch/RetroPyCar?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/javierblancoch/RetroPyCar?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Issues" src="https://img.shields.io/github/issues/javierblancoch/RetroPyCar?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/javierblancoch/RetroPyCar?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
-	    <td><a href="https://github.com/javierblancoch/Cascade-Pandas-Classifier"><b>Cascade Pandas Classifier</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/javierblancoch/Cascade-Pandas-Classifier?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/javierblancoch/Cascade-Pandas-Classifier?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/javierblancoch/Cascade-Pandas-Classifier?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/javierblancoch/Cascade-Pandas-Classifier?style=flat-square&labelColor=343b41"/></td>
+	<td><a href="https://github.com/javierblancoch/Cascade-Pandas-Classifier"><b>Cascade Pandas Classifier</b></a></td>
+	<td><img alt="Stars" src="https://img.shields.io/github/stars/javierblancoch/Cascade-Pandas-Classifier?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/javierblancoch/Cascade-Pandas-Classifier?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Issues" src="https://img.shields.io/github/issues/javierblancoch/Cascade-Pandas-Classifier?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/javierblancoch/Cascade-Pandas-Classifier?style=flat-square&labelColor=343b41"/></td>
     </tr>
   </tbody>
 </table>
@@ -50,4 +50,6 @@
 <a href="mailto:javieresmithblanco@gmail.com"><img src="https://img.shields.io/badge/-javieresmithblanco@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dhruvjainpenny@gmail.com" height=22></a>
 </p>
 
-_If it's not difficult, it's not fun_
+<div align="center">
+  If it's not difficult, it's not fun
+</div>
