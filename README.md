@@ -2,7 +2,6 @@
 
 <p>I'm Javier, developer from  <b>Lima, Peru</b></p>
 
-<h3>Things I code with</h3>
 <table>
   <thead align="center">
     <tr border: none;>
