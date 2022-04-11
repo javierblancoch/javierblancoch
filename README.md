@@ -44,7 +44,7 @@
 </table>
 
 <h3>Some networks</h3>
-<p><a href="https://www.instagram.com/javierblancoch/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=24></a> <a href="https://twitter.com/javierblancoch"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=24></a> <a href="https://pe.linkedin.com/in/javier-esmith-blanco-chuquizuta"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=24></a>
+<p><a href="https://www.instagram.com/javierblancoch/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=24></a> <a href="https://twitter.com/javierblancoch"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=24></a> <a href="https://pe.linkedin.com/in/javier-esmith-blanco-chuquizuta"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=24></a> <a href="https://stackoverflow.com/users/14565089/javierblancoch"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" height=24></a>
 
 <h3>Lets chat</h3>
 <a href="mailto:javieresmithblanco@gmail.com"><img src="https://img.shields.io/badge/-javieresmithblanco@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dhruvjainpenny@gmail.com" height=22></a>
