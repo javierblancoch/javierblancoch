@@ -43,12 +43,21 @@
   </tbody>
 </table>
 
+<h3>Validated knowledge</h3>
+<a href="https://www.credly.com/badges/48169364-d340-4c47-9cfa-369ffcba2cd6"><img src="https://images.credly.com/size/680x680/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" height=140></a>
+<a href="https://www.credly.com/badges/2b20e185-f18a-44c9-8398-85ed49732532"><img src="https://images.credly.com/size/680x680/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" height=140></a>
+<a href="https://www.credly.com/badges/5569bb61-0ec1-4181-ab39-ce0b361d26c7"><img src="https://images.credly.com/size/680x680/images/6430efe4-0ac0-4df6-8f1b-9559d8fcdf27/image.png" height=140></a>
+<a href="https://www.credly.com/badges/9506ccbc-b719-4e09-980c-e5564c5eab04"><img src="https://images.credly.com/size/680x680/images/81f903ed-c3a1-4f4b-afcd-e03331a5b12c/image.png" height=140></a>
+
 <h3>Some networks</h3>
-<p><a href="https://www.instagram.com/javierblancoch/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=24></a> <a href="https://twitter.com/javierblancoch"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=24></a> <a href="https://pe.linkedin.com/in/javier-esmith-blanco-chuquizuta"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=24></a> <a href="https://medium.com/@javierblancoch" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" height=24/></a> <a href="https://stackoverflow.com/users/14565089/javierblancoch"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" height=24></a>
+<a href="https://www.instagram.com/javierblancoch/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=24></a>
+<a href="https://twitter.com/javierblancoch"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=24></a>
+<a href="https://pe.linkedin.com/in/javier-esmith-blanco-chuquizuta"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=24></a>
+<a href="https://medium.com/@javierblancoch" target="_blank"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" height=24/></a>
+<a href="https://stackoverflow.com/users/14565089/javierblancoch"><img src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" height=24></a>
 
 <h3>Lets chat</h3>
-<a href="mailto:javieresmithblanco@gmail.com"><img src="https://img.shields.io/badge/-javieresmithblanco@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dhruvjainpenny@gmail.com" height=22></a>
-</p>
+<p><a href="mailto:javieresmithblanco@gmail.com"><img src="https://img.shields.io/badge/-javieresmithblanco@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dhruvjainpenny@gmail.com" height=22></a></p>
 
 <div align="center">
   If it's not difficult, it's not fun :rocket:
