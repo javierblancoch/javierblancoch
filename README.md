@@ -59,6 +59,7 @@
 <a href="https://pe.linkedin.com/in/javier-esmith-blanco-chuquizuta"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=24></a>
 <a href="https://medium.com/@javierblancoch" target="_blank"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" height=24/></a>
 <a href="https://stackoverflow.com/users/14565089/javierblancoch"><img src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" height=24></a>
+<a href="https://www.hackerrank.com/javierblancoch"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" height=24></a>
 
 <h3>Lets chat</h3>
 <p><a href="mailto:javieresmithblanco@gmail.com"><img src="https://img.shields.io/badge/-javieresmithblanco@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dhruvjainpenny@gmail.com" height=22></a></p>
