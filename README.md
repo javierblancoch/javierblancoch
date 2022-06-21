@@ -51,6 +51,7 @@
 <a href="https://www.credly.com/badges/5569bb61-0ec1-4181-ab39-ce0b361d26c7"><img src="https://images.credly.com/size/680x680/images/6430efe4-0ac0-4df6-8f1b-9559d8fcdf27/image.png" height=140 alt="AWS Certified Data Analytics Specialty - Javier Esmith Blanco Chuquizuta"></a>
 <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=3BFD88AB4550D7CF51E0BF486A5C2ABA04A1FB1D481AAF2C0F7ECA2661FAEFAF"><img src="https://brm-workforce.oracle.com/pdf/certview/images/58_Oracle_Autonomous_Database_Cloud.png" height=140 alt="Oracle Autonomous Database Cloud 2021 Certified Specialist - Javier Esmith Blanco Chuquizuta"></a>
 <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=E102B7C8FB3CED7691641B90FC27D05BC51387757E3456FF42C254B9DD2E2FF4"><img src="https://brm-workforce.oracle.com/pdf/certview/images/OMLADB2021CS.png" height=140 alt="Oracle Machine Learning using Autonomous Database 2021 Certified Specialist - Javier Esmith Blanco Chuquizuta"></a>
+<a href="https://www.credly.com/badges/0c08c56b-27d5-48df-92ad-de3a7d5d4536"><img src="https://images.credly.com/size/680x680/images/06544cb3-dd5b-4406-8615-95ae3c884e14/image.png" height=140 alt="AWS Learning: Object Storage - Javier Esmith Blanco Chuquizuta"></a>
 
 <h3>Some networks</h3>
 <a href="https://www.instagram.com/javierblancoch/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=24></a>
