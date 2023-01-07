@@ -2,7 +2,7 @@
 
 <h3 align="center">I'm Javier, developer from Peru</h3>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=javierblancoch&layout=compact&hide_title=1&card_width=300" alt="Top language used in my repos" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=javierblancoch&layout=compact&hide_title=1&card_width=300&theme=nord" alt="javierblancoch top language used" />
 </div>
 
 ---
@@ -42,6 +42,9 @@
     </tr>
   </tbody>
 </table>
+
+<h3>Shared knowledge</h3>
+<img src="https://github-read-medium.vercel.app/latest?username=javierblancoch&limit=3&theme=nord" alt="javierblancoch blog medium" />
 
 <h3>Validated knowledge</h3>
 <a href="https://www.credly.com/badges/48169364-d340-4c47-9cfa-369ffcba2cd6"><img src="https://images.credly.com/size/680x680/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" height=140 alt="AWS Certified Cloud Practitioner - Javier Esmith Blanco Chuquizuta"></a>
