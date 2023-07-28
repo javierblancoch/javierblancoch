@@ -79,7 +79,7 @@
 &nbsp;
 &nbsp;
 &nbsp;
-<a href="https://credentials.databricks.com/bce93b77-0f62-479c-a1ba-473f304d02d6"><img src="https://templates.images.credential.net/16859822715825555912981627624259.png" height=115 alt="Databricks Generative AI Fundamentals - Javier Esmith Blanco Chuquizuta"></a>
+<a href="https://credentials.databricks.com/bce93b77-0f62-479c-a1ba-473f304d02d6"><img src="https://templates.images.credential.net/16859822715825555912981627624259.png" height=116 alt="Databricks Generative AI Fundamentals - Javier Esmith Blanco Chuquizuta"></a>
 
 <h3>Some networks</h3>
 <a href="https://www.instagram.com/javierblancoch/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=24></a>
