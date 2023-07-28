@@ -75,6 +75,7 @@
 <a href="https://www.credly.com/badges/1994a443-412d-4e3d-b5ad-ea35cd334a6c"><img src="https://images.credly.com/size/680x680/images/221e7d7f-bceb-422e-8c31-436ecbcda614/image.png" height=130 alt=".NET Workloads on AWS Lambda - Javier Esmith Blanco Chuquizuta"></a>
 &nbsp;
 &nbsp;
+&nbsp;
 <a href="https://credentials.databricks.com/4f232c42-6b2b-4543-a294-585be5186710"><img src="https://templates.images.credential.net/16509948849242752807044385742422.png" height=140 alt="Databricks Lakehouse Fundamentals - Javier Esmith Blanco Chuquizuta"></a>
 &nbsp;
 &nbsp;
