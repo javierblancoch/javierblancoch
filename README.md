@@ -56,7 +56,7 @@
 <h3>Validated knowledge</h3>
 
 <a href="https://www.hackerrank.com/certificates/0cc6bd4a109f"><img src="https://hrcdn.net/fcore/assets/generated-badges/python_level_3_stars_5_others-048f6058f9.png" height=130 alt="Python (Basic) Certificate - Javier Esmith Blanco Chuquizuta"></a>
-<a href="https://www.credly.com/badges/48169364-d340-4c47-9cfa-369ffcba2cd6"><img src="https://images.credly.com/size/680x680/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" height=130 alt="AWS Certified Cloud Practitioner - Javier Esmith Blanco Chuquizuta"></a>
+<a href="https://www.credly.com/badges/c74d45c2-df94-49df-9c76-a0f58754ee99"><img src="https://images.credly.com/size/680x680/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" height=130 alt="AWS Certified Cloud Practitioner - Javier Esmith Blanco Chuquizuta"></a>
 <a href="https://www.credly.com/badges/ee2e3b6a-59eb-47e8-94b0-32399baa633e"><img src="https://images.credly.com/size/680x680/images/f0d3fbb9-bfa7-4017-9989-7bde8eaf42b1/image.png" height=130 alt="AWS Certified SysOps Administrator Associate - Javier Esmith Blanco Chuquizuta"></a>
 <a href="https://www.credly.com/badges/0b133ce7-bf50-4eeb-99c6-af227b41d063"><img src="https://images.credly.com/size/680x680/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png" height=130 alt="AWS Certified Developer Associate - Javier Esmith Blanco Chuquizuta"></a>
 <a href="https://www.credly.com/badges/2b20e185-f18a-44c9-8398-85ed49732532"><img src="https://images.credly.com/size/680x680/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" height=130 alt="AWS Certified Solutions Architect Associate - Javier Esmith Blanco Chuquizuta"></a>
