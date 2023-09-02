@@ -77,7 +77,7 @@
 <a href="https://www.credly.com/badges/dd5d7d0d-6c0c-4f66-9ce2-ab6033d2b1b7"><img src="https://images.credly.com/size/680x680/images/51984979-f759-49f0-8bb3-5310d364fdbe/image.png" height=130 alt="AWS Educate Machine Learning Foundations - Javier Esmith Blanco Chuquizuta"></a>
 &nbsp;
 &nbsp;
-<a href="https://credentials.databricks.com/4f232c42-6b2b-4543-a294-585be5186710"><img src="https://www.databricks.com/en-website-assets/static/241d6eaf7219fb39f79806e4af803a50/fundamentals-badge-lakehouse-img.svg" height=125 alt="Databricks Lakehouse Fundamentals - Javier Esmith Blanco Chuquizuta"></a>
+<a href="https://credentials.databricks.com/d3e4f91f-b4ca-4550-b6e0-a0e435551889"><img src="https://www.databricks.com/en-website-assets/static/241d6eaf7219fb39f79806e4af803a50/fundamentals-badge-lakehouse-img.svg" height=125 alt="Databricks Lakehouse Fundamentals - Javier Esmith Blanco Chuquizuta"></a>
 &nbsp;
 &nbsp;
 &nbsp;
