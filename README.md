@@ -51,7 +51,8 @@
 </table>
 
 <h3>Shared knowledge</h3>
-<img src="https://github-read-medium.vercel.app/latest?username=javierblancoch&limit=4&theme=nord" alt="javierblancoch medium" />
+
+[![javierblancoch Medium](https://github-read-medium.vercel.app/latest?username=javierblancoch&limit=4&theme=dark)](https://medium.com/@javierblancoch)
 
 <h3>Validated knowledge</h3>
 
