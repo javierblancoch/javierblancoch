@@ -2,7 +2,8 @@
 
 <h3 align="center">I'm Javier, developer from Peru</h3>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=javierblancoch&layout=compact&hide_title=1&card_width=300&theme=dracula&border_color=0d1117" alt="javierblancoch top language used" /> <img height="162px" src="https://stackoverflow-card.vercel.app/?userID=14565089&theme=dracula" alt="javierblancoch stackoverflow"/>
+	<a href="https://github.com/javierblancoch?tab=repositories"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=javierblancoch&layout=compact&hide_title=1&card_width=300&theme=dracula&border_color=0d1117" alt="javierblancoch top language used" /></a>
+	<a href="https://stackoverflow.com/users/14565089/javierblancoch"><img height="162px" src="https://stackoverflow-card.vercel.app/?userID=14565089&theme=dracula" alt="javierblancoch stackoverflow"/></a>
 </div>
 
 ---
