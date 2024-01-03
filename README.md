@@ -53,7 +53,7 @@
 
 <h3>Shared knowledge</h3>
 
-[![javierblancoch Medium](https://github-readme-medium.vercel.app/?username=javierblancoch&limit=4)](https://medium.com/@javierblancoch)
+[![javierblancoch Medium](https://github-readme-medium.vercel.app/?username=javierblancoch&limit=3)](https://medium.com/@javierblancoch)
 
 <h3>Validated knowledge</h3>
 
@@ -75,13 +75,6 @@
 &nbsp;
 <a href="https://google.accredible.com/26a5c6e7-ca66-41bd-aec8-6de0991381a3"><img src="https://templates.images.credential.net/16590181582433100721069374350922.png" height=130 alt="GCP Professional Cloud Architect - Javier Esmith Blanco Chuquizuta"></a>
 <a href="https://www.credly.com/badges/140be472-c39c-47c7-bb72-a9afe7266e5e"><img src="https://images.credly.com/size/680x680/images/85b9cfc4-257a-4742-878c-4f7ab4a2631b/image.png" height=125 alt="HashiCorp Certified: Terraform Associate (003) - Javier Esmith Blanco Chuquizuta"></a>
-<a href="https://www.credly.com/badges/86b415d4-a61d-4c17-94bd-0b5ad5e77533"><img src="https://images.credly.com/size/680x680/images/e07c6cc4-b737-4d7e-8ce8-66b6b7a60367/image.png" height=130 alt="AWS Learning: Serverless - Javier Esmith Blanco Chuquizuta"></a>
-<a href="https://www.credly.com/badges/47bf6c9e-a8bf-4361-a601-d99e653fb713"><img src="https://images.credly.com/size/680x680/images/b870667f-00a3-48d7-b988-9c02b441b883/image.png" height=130 alt="Well-Architected Proficient - Javier Esmith Blanco Chuquizuta"></a>
-<a href="https://www.credly.com/badges/1994a443-412d-4e3d-b5ad-ea35cd334a6c"><img src="https://images.credly.com/size/680x680/images/221e7d7f-bceb-422e-8c31-436ecbcda614/image.png" height=130 alt=".NET Workloads on AWS Lambda - Javier Esmith Blanco Chuquizuta"></a>
-<a href="https://www.credly.com/badges/64c597cc-b08b-44e0-9c33-d19f4f82f535"><img src="https://images.credly.com/size/680x680/images/b7695469-4083-4e65-b11b-ffc90f4492dd/image.png" height=130 alt="AWS Educate Web Builder - Javier Esmith Blanco Chuquizuta"></a>
-<a href="https://www.credly.com/badges/dd5d7d0d-6c0c-4f66-9ce2-ab6033d2b1b7"><img src="https://images.credly.com/size/680x680/images/51984979-f759-49f0-8bb3-5310d364fdbe/image.png" height=130 alt="AWS Educate Machine Learning Foundations - Javier Esmith Blanco Chuquizuta"></a>
-<a href="https://www.credly.com/badges/4a91cb11-4a1c-4320-9bce-c23a6992f66f"><img src="https://images.credly.com/size/680x680/images/26fffe39-a730-47e5-8278-457de2d59174/image.png" height=130 alt="AWS Educate Machine Learning DeepRacer - Javier Esmith Blanco Chuquizuta"></a>
-&nbsp;
 &nbsp;
 <a href="https://credentials.databricks.com/d3e4f91f-b4ca-4550-b6e0-a0e435551889"><img src="https://www.databricks.com/en-website-assets/static/241d6eaf7219fb39f79806e4af803a50/fundamentals-badge-lakehouse-img.svg" height=125 alt="Databricks Lakehouse Fundamentals - Javier Esmith Blanco Chuquizuta"></a>
 &nbsp;
