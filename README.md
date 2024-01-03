@@ -95,5 +95,5 @@
 <a href="mailto:javieresmithblanco@gmail.com?subject=Hello from Github javierblancoch"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=24></a>
 
 <div align="center">
-  If it's not difficult, it's not fun :rocket:
+  <p>If it's not difficult, it's not fun :rocket:</p>
 </div>
