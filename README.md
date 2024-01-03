@@ -93,7 +93,8 @@
 <h3>Lets chat</h3>
 <a href="https://pe.linkedin.com/in/javier-esmith-blanco-chuquizuta"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=24></a>
 <a href="mailto:javieresmithblanco@gmail.com?subject=Hello from Github javierblancoch"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=24></a>
+<p></p>
 
 <div align="center">
-  <p>If it's not difficult, it's not fun :rocket:</p>
+  If it's not difficult, it's not fun :rocket:
 </div>
