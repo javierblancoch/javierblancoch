@@ -91,8 +91,8 @@
 <a href="https://www.hackerrank.com/javierblancoch"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" height=24></a>
 
 <h3>Lets chat</h3>
+<a href="mailto:javierblancoch@outlook.com?subject=Hello from Github javierblancoch"><img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" height=24></a>
 <a href="https://pe.linkedin.com/in/javier-esmith-blanco-chuquizuta"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=24></a>
-<a href="mailto:javieresmithblanco@gmail.com?subject=Hello from Github javierblancoch"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=24></a>
 <p></p>
 
 <div align="center">
