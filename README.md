@@ -76,12 +76,12 @@
 <a href="https://google.accredible.com/26a5c6e7-ca66-41bd-aec8-6de0991381a3"><img src="https://templates.images.credential.net/16590181582433100721069374350922.png" height=130 alt="GCP Professional Cloud Architect - Javier Esmith Blanco Chuquizuta"></a>
 <a href="https://www.credly.com/badges/140be472-c39c-47c7-bb72-a9afe7266e5e"><img src="https://images.credly.com/size/680x680/images/85b9cfc4-257a-4742-878c-4f7ab4a2631b/image.png" height=125 alt="HashiCorp Certified: Terraform Associate (003) - Javier Esmith Blanco Chuquizuta"></a>
 &nbsp;
-<a href="https://credentials.databricks.com/d3e4f91f-b4ca-4550-b6e0-a0e435551889"><img src="https://www.databricks.com/en-website-assets/static/241d6eaf7219fb39f79806e4af803a50/fundamentals-badge-lakehouse-img.svg" height=125 alt="Databricks Lakehouse Fundamentals - Javier Esmith Blanco Chuquizuta"></a>
+&nbsp;
+<a href="https://credentials.databricks.com/d3e4f91f-b4ca-4550-b6e0-a0e435551889"><img src="https://templates.images.credential.net/16509948849242752807044385742422.png" height=140 alt="Databricks Lakehouse Fundamentals - Javier Esmith Blanco Chuquizuta"></a>
 &nbsp;
 &nbsp;
 &nbsp;
-&nbsp;
-<a href="https://credentials.databricks.com/bce93b77-0f62-479c-a1ba-473f304d02d6"><img src="https://templates.images.credential.net/16859822715825555912981627624259.png" height=116 alt="Databricks Generative AI Fundamentals - Javier Esmith Blanco Chuquizuta"></a>
+<a href="https://credentials.databricks.com/bce93b77-0f62-479c-a1ba-473f304d02d6"><img src="https://templates.images.credential.net/16859822715825555912981627624259.png" height=115 alt="Databricks Generative AI Fundamentals - Javier Esmith Blanco Chuquizuta"></a>
 
 <h3>Some networks</h3>
 <a href="https://www.instagram.com/javierblancoch/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=24></a>
