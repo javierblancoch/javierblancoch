@@ -83,11 +83,8 @@ Well-Architected Proficient - Javier Esmith Blanco Chuquizuta"></a>
 .NET Workloads on AWS Lambda - Javier Esmith Blanco Chuquizuta"></a>
 &nbsp;
 &nbsp;
-<a href="https://credentials.databricks.com/d3e4f91f-b4ca-4550-b6e0-a0e435551889"><img src="https://templates.images.credential.net/16509948849242752807044385742422.png" height=140 alt="Databricks Lakehouse Fundamentals - Javier Esmith Blanco Chuquizuta"></a>
-&nbsp;
-&nbsp;
-&nbsp;
 <a href="https://credentials.databricks.com/bce93b77-0f62-479c-a1ba-473f304d02d6"><img src="https://templates.images.credential.net/16859822715825555912981627624259.png" height=115 alt="Databricks Generative AI Fundamentals - Javier Esmith Blanco Chuquizuta"></a>
+<a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=817CECD8F760AF5086063FB12D36032C485BB31F960B5D03E1671216A559EB16"><img src="https://brm-workforce.oracle.com/pdf/certview/images/OCI2024GAIOCP.png" height=115 alt="Oracle Cloud Infrastructure 2024 Generative AI Certified Professional - Javier Esmith Blanco Chuquizuta"></a>
 
 <h3>Some networks</h3>
 <a href="https://www.instagram.com/javierblancoch/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=24></a>
