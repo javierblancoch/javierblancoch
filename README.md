@@ -53,7 +53,7 @@
 
 <h3>Shared knowledge</h3>
 
-[![javierblancoch Medium](https://github-readme-medium.vercel.app/?username=javierblancoch&limit=3)](https://medium.com/@javierblancoch)
+[![javierblancoch Medium](https://github-readme-medium.vercel.app/?username=javierblancoch&limit=4)](https://medium.com/@javierblancoch)
 
 <h3>Validated knowledge</h3>
 
