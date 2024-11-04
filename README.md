@@ -79,11 +79,11 @@
 &nbsp;
 <a href="https://www.credly.com/badges/140be472-c39c-47c7-bb72-a9afe7266e5e"><img src="https://images.credly.com/size/680x680/images/85b9cfc4-257a-4742-878c-4f7ab4a2631b/image.png" height=120 alt="HashiCorp Certified: Terraform Associate (003) - Javier Esmith Blanco Chuquizuta"></a>
 <a href="https://www.credly.com/badges/86b415d4-a61d-4c17-94bd-0b5ad5e77533"><img src="https://images.credly.com/size/680x680/images/e07c6cc4-b737-4d7e-8ce8-66b6b7a60367/image.png" height=130 alt="AWS Knowledge: Serverless - Javier Esmith Blanco Chuquizuta"></a>
+<a href="https://www.credly.com/badges/c96709d5-af87-4685-b476-3a5da7713bd6"><img src="https://images.credly.com/size/680x680/images/d68afdb9-6fdc-4739-be07-67c919d58348/image.png" height=130 alt="Amazon Connect Developer Specialist - Javier Esmith Blanco Chuquizuta"></a>
 <a href="https://www.credly.com/badges/a5155da4-638f-4773-8351-f592bec27f5f"><img src="https://images.credly.com/size/680x680/images/b870667f-00a3-48d7-b988-9c02b441b883/image.png" height=130 alt="
 Well-Architected Proficient - Javier Esmith Blanco Chuquizuta"></a>
 <a href="https://www.credly.com/badges/0c08c56b-27d5-48df-92ad-de3a7d5d4536"><img src="https://images.credly.com/size/680x680/images/100511fc-a919-4c0c-b313-7f49b6d09ef6/image.png" height=130 alt="AWS Knowledge: Object Storage - Javier Esmith Blanco Chuquizuta"></a>
-<a href="https://www.credly.com/badges/1994a443-412d-4e3d-b5ad-ea35cd334a6c"><img src="https://images.credly.com/size/680x680/images/221e7d7f-bceb-422e-8c31-436ecbcda614/image.png" height=130 alt="
-.NET Workloads on AWS Lambda - Javier Esmith Blanco Chuquizuta"></a>
+<a href="https://www.credly.com/badges/4a91cb11-4a1c-4320-9bce-c23a6992f66f"><img src="https://images.credly.com/size/680x680/images/26fffe39-a730-47e5-8278-457de2d59174/image.png" height=135 alt="AWS Educate Machine Learning DeepRacer - Javier Esmith Blanco Chuquizuta"></a>
 &nbsp;
 &nbsp;
 <a href="https://credentials.databricks.com/bce93b77-0f62-479c-a1ba-473f304d02d6"><img src="https://templates.images.credential.net/16859822715825555912981627624259.png" height=115 alt="Databricks Generative AI Fundamentals - Javier Esmith Blanco Chuquizuta"></a>
