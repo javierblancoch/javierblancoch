@@ -96,6 +96,7 @@ Well-Architected Proficient - Javier Esmith Blanco Chuquizuta"></a>
 <a href="https://medium.com/@javierblancoch" target="_blank"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" height=24/></a>
 <a href="https://stackoverflow.com/users/14565089/javierblancoch"><img src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" height=24></a>
 <a href="https://www.hackerrank.com/javierblancoch"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" height=24></a>
+<a href="https://www.youtube.com/channel/UCPw7LcyXAmIxt5uCkIGnStg"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height=24></a>
 
 <h3>Lets chat</h3>
 <a href="mailto:javierblancoch@outlook.com?subject=Hello from Github javierblancoch"><img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" height=24></a>
