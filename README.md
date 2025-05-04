@@ -53,7 +53,9 @@
 
 <h3>Shared knowledge</h3>
 
-[![javierblancoch Medium](https://github-readme-medium.vercel.app/?username=javierblancoch&limit=4)](https://medium.com/@javierblancoch)
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@javierblancoch/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@javierblancoch/0" alt="Recent Article 0 - javierblancoch Medium">
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@javierblancoch/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@javierblancoch/1" alt="Recent Article 1 - javierblancoch Medium">
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@javierblancoch/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@javierblancoch/2" alt="Recent Article 2 - javierblancoch Medium">
 
 <h3>Validated knowledge</h3>
 
