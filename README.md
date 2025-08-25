@@ -79,7 +79,7 @@
 &nbsp;
 <a href="https://www.credly.com/badges/da29b4fb-7c03-409c-8bd5-2f6da458fa00"><img src="https://images.credly.com/size/680x680/images/71c579e0-51fd-4247-b493-d2fa8167157a/image.png" height=120 alt="GCP Professional Cloud Architect - Javier Esmith Blanco Chuquizuta"></a>
 &nbsp;
-<a href="https://www.credly.com/badges/140be472-c39c-47c7-bb72-a9afe7266e5e"><img src="https://images.credly.com/size/680x680/images/ed4be915-68f8-428a-b332-40ded9084ee5/blob" height=125 alt="HashiCorp Certified: Terraform Associate (003) - Javier Esmith Blanco Chuquizuta"></a>
+<a href="https://www.credly.com/badges/140be472-c39c-47c7-bb72-a9afe7266e5e"><img src="https://images.credly.com/size/680x680/images/0dc62494-dc94-469a-83af-e35309f27356/blob" height=125 alt="HashiCorp Certified: Terraform Associate (003) - Javier Esmith Blanco Chuquizuta"></a>
 <a href="https://www.credly.com/badges/86b415d4-a61d-4c17-94bd-0b5ad5e77533"><img src="https://images.credly.com/size/680x680/images/e07c6cc4-b737-4d7e-8ce8-66b6b7a60367/image.png" height=130 alt="AWS Knowledge: Serverless - Javier Esmith Blanco Chuquizuta"></a>
 <a href="https://www.credly.com/badges/c96709d5-af87-4685-b476-3a5da7713bd6"><img src="https://images.credly.com/size/680x680/images/d68afdb9-6fdc-4739-be07-67c919d58348/image.png" height=130 alt="Amazon Connect Developer Specialist - Javier Esmith Blanco Chuquizuta"></a>
 <a href="https://www.credly.com/badges/a5155da4-638f-4773-8351-f592bec27f5f"><img src="https://images.credly.com/size/680x680/images/b870667f-00a3-48d7-b988-9c02b441b883/image.png" height=130 alt="
