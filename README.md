@@ -79,7 +79,6 @@
 &nbsp;
 <a href="https://www.credly.com/badges/da29b4fb-7c03-409c-8bd5-2f6da458fa00"><img src="https://images.credly.com/size/680x680/images/71c579e0-51fd-4247-b493-d2fa8167157a/image.png" height=120 alt="GCP Professional Cloud Architect - Javier Esmith Blanco Chuquizuta"></a>
 &nbsp;
-<a href="https://www.credly.com/badges/140be472-c39c-47c7-bb72-a9afe7266e5e"><img src="https://images.credly.com/size/680x680/images/0dc62494-dc94-469a-83af-e35309f27356/blob" height=125 alt="HashiCorp Certified: Terraform Associate (003) - Javier Esmith Blanco Chuquizuta"></a>
 <a href="https://www.credly.com/badges/86b415d4-a61d-4c17-94bd-0b5ad5e77533"><img src="https://images.credly.com/size/680x680/images/e07c6cc4-b737-4d7e-8ce8-66b6b7a60367/image.png" height=130 alt="AWS Knowledge: Serverless - Javier Esmith Blanco Chuquizuta"></a>
 <a href="https://www.credly.com/badges/c96709d5-af87-4685-b476-3a5da7713bd6"><img src="https://images.credly.com/size/680x680/images/d68afdb9-6fdc-4739-be07-67c919d58348/image.png" height=130 alt="Amazon Connect Developer Specialist - Javier Esmith Blanco Chuquizuta"></a>
 <a href="https://www.credly.com/badges/a5155da4-638f-4773-8351-f592bec27f5f"><img src="https://images.credly.com/size/680x680/images/b870667f-00a3-48d7-b988-9c02b441b883/image.png" height=130 alt="
@@ -90,6 +89,7 @@ Well-Architected Proficient - Javier Esmith Blanco Chuquizuta"></a>
 &nbsp;
 <a href="https://credentials.databricks.com/bce93b77-0f62-479c-a1ba-473f304d02d6"><img src="https://templates.images.credential.net/16859822715825555912981627624259.png" height=115 alt="Databricks Generative AI Fundamentals - Javier Esmith Blanco Chuquizuta"></a>
 <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=817CECD8F760AF5086063FB12D36032C485BB31F960B5D03E1671216A559EB16"><img src="https://brm-workforce.oracle.com/pdf/certview/images/OCI2024GAIOCP.png" height=115 alt="Oracle Cloud Infrastructure 2024 Generative AI Certified Professional - Javier Esmith Blanco Chuquizuta"></a>
+<a href="https://www.credly.com/badges/d00b9fcc-39b0-4dea-b027-303a22904dac"><img src="https://images.credly.com/size/680x680/images/68fdcd60-3f31-4a24-b87a-90110ab11ee9/blob" height=115 alt="AWS Cloud Club Core Team - Javier Esmith Blanco Chuquizuta"></a>
 
 <h3>Some networks</h3>
 <a href="https://www.instagram.com/javierblancoch/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=24></a>
