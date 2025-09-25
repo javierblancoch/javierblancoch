@@ -79,10 +79,9 @@
 &nbsp;
 <a href="https://www.credly.com/badges/da29b4fb-7c03-409c-8bd5-2f6da458fa00"><img src="https://images.credly.com/size/680x680/images/71c579e0-51fd-4247-b493-d2fa8167157a/image.png" height=120 alt="GCP Professional Cloud Architect - Javier Esmith Blanco Chuquizuta"></a>
 &nbsp;
-<a href="https://www.credly.com/badges/86b415d4-a61d-4c17-94bd-0b5ad5e77533"><img src="https://images.credly.com/size/680x680/images/e07c6cc4-b737-4d7e-8ce8-66b6b7a60367/image.png" height=130 alt="AWS Knowledge: Serverless - Javier Esmith Blanco Chuquizuta"></a>
-<a href="https://www.credly.com/badges/c96709d5-af87-4685-b476-3a5da7713bd6"><img src="https://images.credly.com/size/680x680/images/d68afdb9-6fdc-4739-be07-67c919d58348/image.png" height=130 alt="Amazon Connect Developer Specialist - Javier Esmith Blanco Chuquizuta"></a>
-<a href="https://www.credly.com/badges/a5155da4-638f-4773-8351-f592bec27f5f"><img src="https://images.credly.com/size/680x680/images/b870667f-00a3-48d7-b988-9c02b441b883/image.png" height=130 alt="
-Well-Architected Proficient - Javier Esmith Blanco Chuquizuta"></a>
+<a href="https://www.credly.com/badges/86b415d4-a61d-4c17-94bd-0b5ad5e77533"><img src="https://images.credly.com/size/680x680/images/0c20a5b7-b4e9-4c2f-8b68-342e00a85e05/blob" height=130 alt="AWS Knowledge: Serverless - Javier Esmith Blanco Chuquizuta"></a>
+<a href="https://www.credly.com/badges/c96709d5-af87-4685-b476-3a5da7713bd6"><img src="https://images.credly.com/size/680x680/images/c2e730b8-ec46-40ff-b0d9-c3df3fa7d8cc/blob" height=130 alt="Amazon Connect Developer Specialist - Javier Esmith Blanco Chuquizuta"></a>
+<a href="https://www.credly.com/badges/a5155da4-638f-4773-8351-f592bec27f5f"><img src="https://images.credly.com/size/680x680/images/b870667f-00a3-48d7-b988-9c02b441b883/image.png" height=130 alt="Well-Architected Proficient - Javier Esmith Blanco Chuquizuta"></a>
 <a href="https://www.credly.com/badges/0c08c56b-27d5-48df-92ad-de3a7d5d4536"><img src="https://images.credly.com/size/680x680/images/100511fc-a919-4c0c-b313-7f49b6d09ef6/image.png" height=130 alt="AWS Knowledge: Object Storage - Javier Esmith Blanco Chuquizuta"></a>
 <a href="https://www.credly.com/badges/4a91cb11-4a1c-4320-9bce-c23a6992f66f"><img src="https://images.credly.com/size/680x680/images/26fffe39-a730-47e5-8278-457de2d59174/image.png" height=135 alt="AWS Educate Machine Learning DeepRacer - Javier Esmith Blanco Chuquizuta"></a>
 &nbsp;
