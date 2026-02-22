@@ -64,6 +64,7 @@
 &nbsp;
 <a href="https://builder.aws.com/community/@javierblancoch"><img src="https://d2908q01vomqb2.cloudfront.net/da4b9237bacccdf19c0760cab7aec4a8359010b0/2020/07/23/AWS-CBs-blog-image.png" height=115 alt="AWS Community Builder Serverless - Javier Esmith Blanco Chuquizuta"></a>
 &nbsp;
+<a href="https://www.credly.com/badges/d29fcf8c-a1bd-40f4-804d-21c3352f4db2"><img src="https://images.credly.com/size/680x680/images/e426d40e-8a6a-4f72-866e-2abfcfbde46b/image.png" height=130 alt="AWS re/Start Accredited Instructor - Javier Esmith Blanco Chuquizuta"></a>
 <a href="https://www.hackerrank.com/certificates/0cc6bd4a109f"><img src="https://hrcdn.net/fcore/assets/generated-badges/python_level_3_stars_5_others-048f6058f9.png" height=130 alt="Python (Basic) Certificate - Javier Esmith Blanco Chuquizuta"></a>
 <a href="https://www.credly.com/badges/c74d45c2-df94-49df-9c76-a0f58754ee99"><img src="https://images.credly.com/size/680x680/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" height=130 alt="AWS Certified Cloud Practitioner - Javier Esmith Blanco Chuquizuta"></a>
 <a href="https://www.credly.com/badges/4023f391-94b3-447d-9316-d2d87d79b065"><img src="https://images.credly.com/size/680x680/images/4d4693bb-530e-4bca-9327-de07f3aa2348/image.png" height=130 alt="AWS Certified AI Practitioner - Javier Esmith Blanco Chuquizuta"></a>
