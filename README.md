@@ -89,6 +89,7 @@
 <a href="https://www.credly.com/badges/64c597cc-b08b-44e0-9c33-d19f4f82f535"><img src="https://images.credly.com/size/680x680/images/94eac7af-d49a-4f94-adfa-c4518fd50b91/blob" height=135 alt="AWS Educate Web Builder Training Badge - Javier Esmith Blanco Chuquizuta"></a>
 <a href="https://www.credly.com/badges/4a91cb11-4a1c-4320-9bce-c23a6992f66f"><img src="https://images.credly.com/size/680x680/images/26fffe39-a730-47e5-8278-457de2d59174/image.png" height=135 alt="AWS Educate Machine Learning DeepRacer - Javier Esmith Blanco Chuquizuta"></a>
 <a href="https://www.credly.com/badges/258050a9-820b-4512-9499-eeceb324f151"><img src="https://images.credly.com/size/680x680/images/b3885091-25bc-42d0-8989-34cca82f3056/blob" height=130 alt="AWS Serverless Demonstrated - Javier Esmith Blanco Chuquizuta"></a>
+<a href="https://www.credly.com/badges/0c953e8e-fa7e-4640-a4c9-3f41b74b9986"><img src="https://images.credly.com/size/680x680/images/6f40bf38-1725-40d8-99a2-f6bb1bafec0e/blob" height=130 alt="AWS Agentic AI Demonstrated - Javier Esmith Blanco Chuquizuta"></a>
 <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=817CECD8F760AF5086063FB12D36032C485BB31F960B5D03E1671216A559EB16"><img src="https://brm-workforce.oracle.com/pdf/certview/images/OCI2024GAIOCP.png" height=115 alt="Oracle Cloud Infrastructure 2024 Generative AI Certified Professional - Javier Esmith Blanco Chuquizuta"></a>
 
 <h3>Some networks</h3>
