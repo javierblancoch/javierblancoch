@@ -59,7 +59,7 @@
 <h3>Validated knowledge</h3>
 
 &nbsp;
-<a href="https://builder.aws.com/community/@javierblancoch"><img src="https://d2908q01vomqb2.cloudfront.net/da4b9237bacccdf19c0760cab7aec4a8359010b0/2020/07/23/AWS-CBs-blog-image.png" height=115 alt="AWS Community Builder Serverless - Javier Esmith Blanco Chuquizuta"></a>
+<a href="http://builder.aws.com/community/@javierblancoch?tab=badges"><img src="https://d2908q01vomqb2.cloudfront.net/da4b9237bacccdf19c0760cab7aec4a8359010b0/2020/07/23/AWS-CBs-blog-image.png" height=115 alt="AWS Community Builder Serverless - Javier Esmith Blanco Chuquizuta"></a>
 &nbsp;
 &nbsp;
 <a href="https://www.credly.com/badges/04b533fa-d2da-430f-a18b-79ea923777c2"><img src="https://images.credly.com/size/680x680/images/94475512-f247-408f-9809-9e1f93c60c18/blob" height=110 alt="AWS SBG Core Team Member Badge - Javier Esmith Blanco Chuquizuta"></a>
